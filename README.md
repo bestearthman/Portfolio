@@ -4,4 +4,4 @@
 
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Метанпромбанк](big_cities_music) | Буткемп-проект | *pandas* |
+| [Метанпромбанк](https://github.com/bestearthman/Portfolio/blob/main/1%20Metanprombank/Metanprombank.ipynb) | Буткемп-проект | *pandas* |
